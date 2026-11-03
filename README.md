@@ -1,6 +1,6 @@
 # Cordia Labs — V0 CAD & 3D Printed Parts
 
-CAD models, STEP source files, and 3D printable STL files for the Cordia Labs V0 dual-arm cloth manipulation bench.
+CAD models, STEP source files, and 3D printable STL files for a $1,000 dual-arm robot that folds laundry.
 
 ```
 Bench Format:   IKEA Råskog utility cart platform
@@ -9,6 +9,16 @@ Gripper Jaws:   Integrated channel for RP-S40-ST thin-film FSR & 95A TPU contact
 Fasteners:      M3 brass heat-set inserts (M3×4×5mm)
 License:        CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
 ```
+
+---
+
+## Licensing Philosophy (CERN-OHL-S-2.0)
+
+We deliberately license the physical CAD and printed parts under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**:
+
+* **Hardware as a Distribution Vehicle:** Collecting usable cloth data requires putting robots into actual commercial laundry rooms instead of confining them to a single lab. The hardware must be cheap ($1,000 target BOM) and open enough to be reproduced, repaired, and distributed widely.
+* **The Moat is the Dataset:** The hardware is an acquisition platform. The defensibility lies in the multimodal dataset, contact force telemetry, and trained policy weights—not in locking down 3D printed brackets.
+* **Reciprocity Requirement:** Under CERN-OHL-S-2.0, anyone—including commercial teams—can build or modify this rig, provided any modified design files and manufacturing sources are released back to the community under the same reciprocal terms.
 
 ---
 
