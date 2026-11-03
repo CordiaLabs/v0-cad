@@ -1,6 +1,6 @@
 # Cordia Labs — V0 CAD & 3D Printed Parts
 
-CAD models, STEP source files, and 3D printable STL files for a $1,000 dual-arm robot that folds laundry.
+CAD models, STEP source files, and 3D printable STL files for a $1,000 robot that folds laundry.
 
 ```
 Bench Format:   IKEA Råskog utility cart platform
